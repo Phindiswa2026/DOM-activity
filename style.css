@@ -1,0 +1,11 @@
+.product-card {
+    border: 1px solid #ddd;
+    padding: 12px;
+
+}
+
+.low-stock{
+    border: 2px solid orange;
+    background: #fff5dd;
+
+}
